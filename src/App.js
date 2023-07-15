@@ -58,7 +58,7 @@ function App() {
         </div>
         <button className='btn'onClick={formSubmit}>Create Account</button>
 
-        <p className='para'>{formValues.errorMsg}</p>
+        <p className='para'>{formValues.errorMsg}</p> 
       </div>
      </div>
     </div>
